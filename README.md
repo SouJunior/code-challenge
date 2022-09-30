@@ -8,7 +8,7 @@ Regras:
 - Faça um fork desse repositorio.
 - Envie um Pull Request por desafio.
 - O desafio pode ser executado em qualquer liguagem de programação, respeitando as pastas de cada linguagem.
-  - Dentro da pasta da liguagem (Exemplo: php/[seu_usuario_github]) devem ser colocado 2 arquivos, Um readme.md explicando como executar o codigo e a resolução do desafio.
+  - Dentro da pasta da linguagem (Exemplo: php/[seu_usuario_github]) devem ser colocados 2 arquivos, um readme.md explicando como executar o codigo e a resolução do desafio.
   - Se não existir a linguagem de programção alvo, pode criar a pasta com nome todo em minusculo.
  - Caso não seja possivel executar o seu codigo, o Pull Request será reprovado.
  - Não publique as suas resoluções para os demais no discord, não estrague a brincadeira.
