@@ -15,5 +15,6 @@
     1. Multiplicar o primeiro parâmetro "wins" por 3, já que o mesmo vale 3 pontos.
     2. Não alterar o segundo parâmetro, "draws", já que o mesmo vale 1 ponto.
     3. declarar sempre o valor de "losses", o terceiro parâmetro, como zero, já que o mesmo vale nenhum ponto.
+    4. Impedir que valores numéricos menores que zero sejam inseridos.
  - Extra:
     1. A função transforma os parâmetros para o tipo "number" para que a mesma possa receber "strings" que podem ser convertidas internamente pelo "js" para número.
