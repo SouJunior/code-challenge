@@ -1,4 +1,4 @@
-## Return the sum of two numbers.
+## Reverse an Array.
 
 ### Como usar:
         1. Vá até a linha onde está escrito: "console.log(reverseArray([1, 2, 3, 4, 5]));" 
