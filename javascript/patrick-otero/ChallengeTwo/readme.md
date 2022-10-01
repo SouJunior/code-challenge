@@ -1,4 +1,4 @@
-## Return the sum of two numbers.
+## Football Points.
 
 ### Como usar:
         1. Vá até a linha onde está escrito: "console.log(footballTeamPoints("3", "1", "5"));" 
