@@ -1,11 +1,9 @@
 function areaOfRectangle (num1, num2) {
-   const area = num1 * num2
-
-   if (area > 0) {
-    return area
-   }else {
-    return -1
-   }
+    if (num1 <= 0 || num2 <= 0) {
+        return -1
+    }else {
+        return num1 * num2
+    }
 }
 
 // Examples
@@ -21,3 +19,6 @@ console.log(testThree);
 
 testFour = areaOfRectangle(0, 2)
 console.log(testFour);
+
+testThree = areaOfRectangle(-2, -2)
+console.log(testThree);
