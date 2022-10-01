@@ -1,6 +1,6 @@
 # Como executar os desafios
 
-Em todas os arquivos de desafios há exemplos e também uma documentação em jsdoc.
+Em todas os arquivos de desafios há exemplos.
 ### Pré-requisitos
 * instale a extensão code runner
 
