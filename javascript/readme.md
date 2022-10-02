@@ -1,4 +1,4 @@
-# Projeto Pokédex(UP)
+# Desafios(SouJunior)
 🚀 Desafio proposto pela comunidade SouJunior. <br><br>
 (Desafios para Hacktoberfest 👨‍💻) 🚀
 
