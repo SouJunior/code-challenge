@@ -1,8 +1,5 @@
-const reverseArray = (array) => {
-  const reversedArray = array.reverse();
-  return reversedArray;
-};
+const reversedArray = (array) => array.reverse();
 
-console.log(reverseArray([1, 2, 3, 4]));
-console.log(reverseArray([9, 9, 2, 3, 4]));
-console.log(reverseArray([]));
+console.log(reversedArray([1, 2, 3, 4]));
+console.log(reversedArray([9, 9, 2, 3, 4]));
+console.log(reversedArray([]));
