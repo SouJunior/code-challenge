@@ -15,8 +15,6 @@ function revertArr() {
   const newArr = temp.split(regex)
   const newArrRev = temp.split(regex).reverse()
 
-  console.log(`Arr ${typeof newArr} Rev ${typeof newArrRev}`)
-
   resultEl.textContent = `[${newArr}] < > [${newArrRev}]`
   clearInput()
 }
