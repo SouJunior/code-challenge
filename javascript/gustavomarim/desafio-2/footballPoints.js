@@ -17,7 +17,7 @@ const footballPoints = (win, draw, loose) => {
   const totalPoints = winPoints + drawPoints + loosePoints;
 
   return totalPoints;
-}
+};
 
 console.log(footballPoints(-3, 4, 2));
 console.log(footballPoints(5, 0, 2));
