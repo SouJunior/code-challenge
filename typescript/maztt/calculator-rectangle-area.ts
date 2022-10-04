@@ -1,6 +1,5 @@
 function area(width: number = 0, height: number = 0): number {
-  const result = width <= 0 || height <= 0 ? -1 : width * height;
-  return result;
+  return width <= 0 || height <= 0 ? -1 : width * height;
 }
 
 console.log(area(3, 4));
