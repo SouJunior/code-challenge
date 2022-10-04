@@ -66,3 +66,7 @@ button {
 #resultado {
   font-weight: bold;
 }
+
+.error__message {
+  color: crimson;
+}
