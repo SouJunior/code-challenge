@@ -25,5 +25,3 @@ run script.rb
 
 
 _Created by_ **@MrNullus** 💜
-
-
