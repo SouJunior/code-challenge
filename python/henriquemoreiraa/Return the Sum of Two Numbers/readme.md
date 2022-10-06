@@ -4,4 +4,4 @@
 
 - Execute o comando "python index.py"
 
-## Caso não tenha o python instalado, tente copiar e colar o código no playground do leetcode!
+ Caso não tenha o python instalado, tente copiar e colar o código no playground do leetcode!
