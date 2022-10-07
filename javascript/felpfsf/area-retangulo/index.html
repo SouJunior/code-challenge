@@ -1,12 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Área de um retângulo</title>
-</head>
-<body>
-  
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script defer src="main.js"></script>
+    <title>Área de um retângulo</title>
+  </head>
+  <body>
+    <div class="container__wrapper is__flex">
+      <h1>Definir a área do retângulo</h1>
+      <p>Entre com os valores</p>
+      <!-- Form -->
+      <form>
+        <div class="inp__containerX">
+          <label id="lbX">X</label>
+          <input id="inpX" type="number" />
+        </div>
+
+        <div class="inp__containerY">
+          <label id="lbY">Y</label>
+          <input id="inpY" type="number" />
+        </div>
+
+        <button id="btnCalc">Calcular</button>
+      </form>
+      <!-- Error message -->
+      <!-- resultado -->
+      <div class="resultado__container">
+        <h2>Área do retângulo</h2>
+        <p id="resultado">resultado aqui</p>
+      </div>
+    </div>
+  </body>
 </html>
