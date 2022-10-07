@@ -1,20 +1,20 @@
 const numberInvalidMessage = () => 'Digite um número válido, maior que 0!';
 
-const footballPoints = (win, draw, loose) => {
+const footballPoints = (win, draw, lose) => {
   if (typeof win !== 'number' ||
     typeof draw !== 'number' ||
-    typeof loose !== 'number') {
+    typeof lose !== 'number') {
     return numberInvalidMessage();
   }
 
-  if (win < 0 || draw < 0 || loose < 0) {
+  if (win < 0 || draw < 0 || lose < 0) {
     return numberInvalidMessage();
   }
 
   const winPoints = win * 3;
   const drawPoints = draw * 1;
-  const loosePoints = loose * 0;
-  const totalPoints = winPoints + drawPoints + loosePoints;
+  const losePoints = lose * 0;
+  const totalPoints = winPoints + drawPoints + losePoints;
 
   return totalPoints;
 };

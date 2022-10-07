@@ -1,7 +1,6 @@
 const addition = (num1, num2) => {
-  if (typeof num1 !== 'number' || typeof num2 !== 'number') {
+  if (typeof num1 !== 'number' || typeof num2 !== 'number')
     return 'Digite um número válido!';
-  }
 
   return num1 + num2;
 };
