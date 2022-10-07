@@ -59,12 +59,17 @@ button {
   margin: 2rem auto;
 }
 
+.error__message {
+  color: crimson;
+  font-weight: bold;
+}
+
 form {
   margin-block: 1rem;
   padding: 1.25rem;
 
   border: 0.0625rem solid;
-  
+
   border-top-left-radius: 0.625rem;
   border-top-right-radius: 0.3125rem;
   border-bottom-right-radius: 0.625rem;
@@ -97,4 +102,13 @@ form {
 
 .resultado__container {
   text-align: center;
+}
+
+#resultado {
+  color: cornflowerblue;
+}
+
+.result {
+  font-size: 2rem;
+  font-weight: 600;
 }
