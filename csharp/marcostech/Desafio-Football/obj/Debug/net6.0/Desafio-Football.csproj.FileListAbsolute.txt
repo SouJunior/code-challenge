@@ -1,0 +1,15 @@
+C:\Hacktoberfest\SouJunior\code-challenge\csharp\marcostech\Desafio-Football\obj\Debug\net6.0\Desafio-Football.csproj.AssemblyReference.cache
+C:\Hacktoberfest\SouJunior\code-challenge\csharp\marcostech\Desafio-Football\obj\Debug\net6.0\Desafio-Football.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hacktoberfest\SouJunior\code-challenge\csharp\marcostech\Desafio-Football\obj\Debug\net6.0\Desafio-Football.AssemblyInfoInputs.cache
+C:\Hacktoberfest\SouJunior\code-challenge\csharp\marcostech\Desafio-Football\obj\Debug\net6.0\Desafio-Football.AssemblyInfo.cs
+C:\Hacktoberfest\SouJunior\code-challenge\csharp\marcostech\Desafio-Football\obj\Debug\net6.0\Desafio-Football.csproj.CoreCompileInputs.cache
+C:\Hacktoberfest\SouJunior\code-challenge\csharp\marcostech\Desafio-Football\bin\Debug\net6.0\Desafio-Football.exe
+C:\Hacktoberfest\SouJunior\code-challenge\csharp\marcostech\Desafio-Football\bin\Debug\net6.0\Desafio-Football.deps.json
+C:\Hacktoberfest\SouJunior\code-challenge\csharp\marcostech\Desafio-Football\bin\Debug\net6.0\Desafio-Football.runtimeconfig.json
+C:\Hacktoberfest\SouJunior\code-challenge\csharp\marcostech\Desafio-Football\bin\Debug\net6.0\Desafio-Football.dll
+C:\Hacktoberfest\SouJunior\code-challenge\csharp\marcostech\Desafio-Football\bin\Debug\net6.0\Desafio-Football.pdb
+C:\Hacktoberfest\SouJunior\code-challenge\csharp\marcostech\Desafio-Football\obj\Debug\net6.0\Desafio-Football.dll
+C:\Hacktoberfest\SouJunior\code-challenge\csharp\marcostech\Desafio-Football\obj\Debug\net6.0\refint\Desafio-Football.dll
+C:\Hacktoberfest\SouJunior\code-challenge\csharp\marcostech\Desafio-Football\obj\Debug\net6.0\Desafio-Football.pdb
+C:\Hacktoberfest\SouJunior\code-challenge\csharp\marcostech\Desafio-Football\obj\Debug\net6.0\Desafio-Football.genruntimeconfig.cache
+C:\Hacktoberfest\SouJunior\code-challenge\csharp\marcostech\Desafio-Football\obj\Debug\net6.0\ref\Desafio-Football.dll
