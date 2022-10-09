@@ -1,0 +1,16 @@
+C:\Users\Getulio\source\SolidRepos\Reverse_an_Array\Reverse_an_Array\bin\Debug\Reverse_an_Array.exe.config
+C:\Users\Getulio\source\SolidRepos\Reverse_an_Array\Reverse_an_Array\bin\Debug\Reverse_an_Array.exe
+C:\Users\Getulio\source\SolidRepos\Reverse_an_Array\Reverse_an_Array\bin\Debug\Reverse_an_Array.pdb
+C:\Users\Getulio\source\SolidRepos\Reverse_an_Array\Reverse_an_Array\obj\Debug\Reverse_an_Array.csproj.AssemblyReference.cache
+C:\Users\Getulio\source\SolidRepos\Reverse_an_Array\Reverse_an_Array\obj\Debug\Reverse_an_Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\Getulio\source\SolidRepos\Reverse_an_Array\Reverse_an_Array\obj\Debug\Reverse_an_Array.csproj.CoreCompileInputs.cache
+C:\Users\Getulio\source\SolidRepos\Reverse_an_Array\Reverse_an_Array\obj\Debug\Reverse_an_Array.exe
+C:\Users\Getulio\source\SolidRepos\Reverse_an_Array\Reverse_an_Array\obj\Debug\Reverse_an_Array.pdb
+C:\Users\Getulio\source\repos\code-challenge\csharp\GetulioSSFilho\Reverse_an_Array\Reverse_an_Array\bin\Debug\Reverse_an_Array.exe.config
+C:\Users\Getulio\source\repos\code-challenge\csharp\GetulioSSFilho\Reverse_an_Array\Reverse_an_Array\bin\Debug\Reverse_an_Array.exe
+C:\Users\Getulio\source\repos\code-challenge\csharp\GetulioSSFilho\Reverse_an_Array\Reverse_an_Array\bin\Debug\Reverse_an_Array.pdb
+C:\Users\Getulio\source\repos\code-challenge\csharp\GetulioSSFilho\Reverse_an_Array\Reverse_an_Array\obj\Debug\Reverse_an_Array.csproj.AssemblyReference.cache
+C:\Users\Getulio\source\repos\code-challenge\csharp\GetulioSSFilho\Reverse_an_Array\Reverse_an_Array\obj\Debug\Reverse_an_Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\Getulio\source\repos\code-challenge\csharp\GetulioSSFilho\Reverse_an_Array\Reverse_an_Array\obj\Debug\Reverse_an_Array.csproj.CoreCompileInputs.cache
+C:\Users\Getulio\source\repos\code-challenge\csharp\GetulioSSFilho\Reverse_an_Array\Reverse_an_Array\obj\Debug\Reverse_an_Array.exe
+C:\Users\Getulio\source\repos\code-challenge\csharp\GetulioSSFilho\Reverse_an_Array\Reverse_an_Array\obj\Debug\Reverse_an_Array.pdb
