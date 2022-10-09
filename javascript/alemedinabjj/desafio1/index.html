@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="index.js"></script>
+    <title>Return the sum of Two Numbers</title>
+  </head>
+  <body>
+    <main class="flex flex-col items-center justify-center h-screen bg-gray-100">
+      <header>
+        <h1>Return the sum of Two Numbers</h1>
+      </header>
+      <section class="flex flex-col items-center justify-start pt-20 h-screen bg-gray-100 gap-3">
+        <p>Enter two numbers to sum them</p>
+        <input
+          type="number"
+          id="number1"
+          placeholder="Enter a number"
+          class="border-2 border-gray-300 bg-white h-10 px-5 pr-16 rounded-lg text-sm focus:outline-none"
+        />
+        <input
+          type="number"
+          id="number2"
+          placeholder="Enter a number"
+          class="border-2 border-gray-300 bg-white h-10 px-5 pr-16 rounded-lg text-sm focus:outline-none"
+        />
+
+        <button onclick="sum()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mt-10">Sum</button>
+        <p id="result" class="text-center text-2xl"></p>
+      </section>
+    </main>
+  </body>
+</html>
