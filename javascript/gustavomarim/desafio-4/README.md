@@ -1,8 +1,8 @@
-# Desafio ➞ Return the Sum of Two Numbers
+# Desafio ➞ Area of a Rectangle
 
 ## O Desafio
 
-Criar uma função que receba dois números como argumentos e retorne sua soma.
+Criar uma função que calcule a área de um retângulo. Se os argumentos forem inválidos, sua função deverá retornar -1.
 
 ## Execução do Desafio
 
@@ -19,7 +19,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone https://github.com/gustavomarim/code-challenge
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd code-challenge/javascript/gustavomarim
+$ cd code-challenge/javascript/gustavomarim/desafio-4/areaOfRectangle.js
 
 # Utilize o atalho de execução de código do editor ou clique no 
 # botão 'Run Code'
