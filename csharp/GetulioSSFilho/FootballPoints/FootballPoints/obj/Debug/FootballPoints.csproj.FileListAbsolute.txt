@@ -1,0 +1,8 @@
+C:\Users\Getulio\source\repos\code-challenge\csharp\GetulioSSFilho\FootballPoints\FootballPoints\FootballPoints\bin\Debug\FootballPoints.exe.config
+C:\Users\Getulio\source\repos\code-challenge\csharp\GetulioSSFilho\FootballPoints\FootballPoints\FootballPoints\bin\Debug\FootballPoints.exe
+C:\Users\Getulio\source\repos\code-challenge\csharp\GetulioSSFilho\FootballPoints\FootballPoints\FootballPoints\bin\Debug\FootballPoints.pdb
+C:\Users\Getulio\source\repos\code-challenge\csharp\GetulioSSFilho\FootballPoints\FootballPoints\FootballPoints\obj\Debug\FootballPoints.csproj.AssemblyReference.cache
+C:\Users\Getulio\source\repos\code-challenge\csharp\GetulioSSFilho\FootballPoints\FootballPoints\FootballPoints\obj\Debug\FootballPoints.csproj.SuggestedBindingRedirects.cache
+C:\Users\Getulio\source\repos\code-challenge\csharp\GetulioSSFilho\FootballPoints\FootballPoints\FootballPoints\obj\Debug\FootballPoints.csproj.CoreCompileInputs.cache
+C:\Users\Getulio\source\repos\code-challenge\csharp\GetulioSSFilho\FootballPoints\FootballPoints\FootballPoints\obj\Debug\FootballPoints.exe
+C:\Users\Getulio\source\repos\code-challenge\csharp\GetulioSSFilho\FootballPoints\FootballPoints\FootballPoints\obj\Debug\FootballPoints.pdb
