@@ -2,8 +2,8 @@
 
 ## Challengers
 
-- Challenge 1 - Return the Sum of Two Numbers(Neste desafio, você setará o valor junto com a execução do comando. Exemplo: php app valor1 valor2)
-- Challenge 2 - Football points
+- Challenge 1 - Return the Sum of Two Numbers(Neste desafio, você setará o valor junto com a execução do comando. Exemplo: php app valor1 valor2. A saida será o resultado da soma.)
+- Challenge 2 - Football points(Neste desafio, você setará o valor junto com a execução do comando. Exemplo: php app valor1 valor2 valor3. A saída será o resultado dos pontos.)
 - Challenge 3 - Reverse an Array
 - Challenge 4 - Area of a Rectangle
 
