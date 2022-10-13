@@ -4,7 +4,7 @@
 
 - Challenge 1 - Return the Sum of Two Numbers(Neste desafio, você setará o valor junto com a execução do comando. Exemplo: php app valor1 valor2. A saida será o resultado da soma.)
 - Challenge 2 - Football points(Neste desafio, você setará o valor junto com a execução do comando. Exemplo: php app valor1 valor2 valor3. A saída será o resultado dos pontos.)
-- Challenge 3 - Reverse an Array
+- Challenge 3 - Reverse an Array(Este desafio já tem valores pré definidos, todavia, caso queira altera-los, basta acessar o script e modificar os valores.)
 - Challenge 4 - Area of a Rectangle
 
 ## Como executar os desafios
