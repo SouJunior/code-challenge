@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaOfRetangle", "AreaOfRetangle\AreaOfRetangle.csproj", "{48C33200-E3F2-4EF8-8BE8-F11ACF601E2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaOfRetangle.Tests", "AreaOfRetangle.Tests\AreaOfRetangle.Tests.csproj", "{C2D37EE7-093D-4F16-BDF1-2CC434327429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48C33200-E3F2-4EF8-8BE8-F11ACF601E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C33200-E3F2-4EF8-8BE8-F11ACF601E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C33200-E3F2-4EF8-8BE8-F11ACF601E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C33200-E3F2-4EF8-8BE8-F11ACF601E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2D37EE7-093D-4F16-BDF1-2CC434327429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D37EE7-093D-4F16-BDF1-2CC434327429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D37EE7-093D-4F16-BDF1-2CC434327429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D37EE7-093D-4F16-BDF1-2CC434327429}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15A71DFA-10C8-4908-8CED-427355E51F5B}
+	EndGlobalSection
+EndGlobal
