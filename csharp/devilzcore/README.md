@@ -1,13 +1,6 @@
-## Desafio Inverter uma array
-Escreva uma função para reverter um array.
+## Introdução
+Repositório com a lista dos desafios resolvidos em csharp, durante o evento do Hacktorber Fest.
 
-## Funcionamento
-Para que o código seja iniciliazado deve possuir o sdk ou runtime do .NET instalado. Após isso, basta digitar a linha diretamente no terminal.
-```
-dotnet run
-```
-
-Para adicionar uma nova array deve chamar a função Reverse com um array tipo inteiro dentro do Main.
-```
-Reverse(new int[] { 1,4,5,2,5,70 });
-```
+## Links
+- [Return the Sum of Two Numbers](https://github.com/devilzcore/code-challenge/tree/main/csharp/devilzcore/ReverseAnArray)
+- [Reverse an Array](https://github.com/devilzcore/code-challenge/tree/main/csharp/devilzcore/ReturnTheSumOfTwoNumbers)
