@@ -1,8 +1,7 @@
-In this challenge, you will learn simple usage of functions in C. Functions are a bunch of statements grouped together. 
-A function is provided with zero or more arguments, and it executes the statements on it. 
-Based on the return type, it either returns nothing (void) or something.
+Neste desafio, você aprenderá o uso simples de funções em C. Funções são um monte de instruções agrupadas.
+Uma função é fornecida com zero ou mais argumentos e executa as instruções nela. Com base no tipo de retorno, ele não retorna nada (void) ou algo assim.
 
-A sample syntax for a function is:
+Um exemplo de sintaxe para uma função é:
 
 
         return_type function_name(arg_type_1 arg_1, arg_type_2 arg_2, ...) {
@@ -13,7 +12,7 @@ A sample syntax for a function is:
         	return something of type `return_type`;
     }
     
-  For example, a function to read four variables and return the sum of them can be written as
+  Por exemplo, uma função para ler quatro variáveis e retornar a soma delas pode ser escrita como
   
   
         int sum_of_four(int a, int b, int c, int d) {
@@ -33,8 +32,8 @@ a += b is equivalent to a = a + b;
 
 Task
 
-Write a function int max_of_four(int a, int b, int c, int d) which reads four arguments and returns the greatest of them.
+Escreva uma função int max_of_four(int a, int b, int c, int d)que leia quatro argumentos e retorne o maior deles.
 
 Note
 
-There is not built in max function in C. Code that will be reused is often put in a separate function, e.g. int max(x, y) that returns the greater of the two values.
+Não há maxfunction embutido em C. O código que será reutilizado geralmente é colocado em uma função separada, por exemplo, int max(x, y)que retorna o maior dos dois valores.
