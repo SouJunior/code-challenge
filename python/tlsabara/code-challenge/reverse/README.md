@@ -1,6 +1,6 @@
 # Função reverse
 
-para executar basta ter o python e digitar no terminal:
+para executar basta ter o python, acessar a pasta do módulo e digitar no terminal:
 ```commandline
 python function.py 
 ```
