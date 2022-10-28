@@ -1,0 +1,25 @@
+public class AreaOfARectangle
+{
+
+    public static void main(String[] args)
+    {
+        int base = 0;
+        int heigth = 2;
+
+        System.out.println(rectangleArea(base, heigth));
+    }
+
+    public static int rectangleArea(int b, int h)
+    {
+        if (b <= 0 || h <= 0)
+        {
+            return -1;
+        }
+        else
+        {
+            int area = b * h;
+            return area;
+        }
+    }
+
+}
