@@ -1,1 +1,0 @@
-# Apenas funções auxiliares.
