@@ -8,7 +8,7 @@ function soma(){
     const soma = Number(numero1.value) + Number(numero2.value);
     if(isNaN(soma)){
         resultado.innerHTML = "Valores inválidos.";
-        return "Os valores inválidos."
+        return "Valores inválidos."
     } else {
         resultado.innerHTML += soma
         return soma;
