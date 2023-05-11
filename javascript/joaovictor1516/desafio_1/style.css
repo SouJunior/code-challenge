@@ -6,7 +6,7 @@
 form{
     background-color: #00C2D1;
     border-radius: 10px;
-    margin: 30px 0 0 550px;
+    margin: 30px 0 0 600px;
     height: 150px;
     width: 300px;
     display: flex;
@@ -25,4 +25,14 @@ input{
     border-radius: 10px;
     box-shadow: 4px 4px 3px #5d5d5d;
     cursor: pointer;
+}
+
+#somar:hover{
+    height: 30px;
+    width: 55px;
+}
+
+#somar:active{
+    box-shadow: none;
+    transform: translate(4px, 4px);
 }
