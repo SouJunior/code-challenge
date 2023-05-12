@@ -7,7 +7,7 @@ form{
     background-color: #00C2D1;
     border-radius: 10px;
     margin: 20% 0 0 40%;
-    height: 200px;
+    height: 150px;
     width: 300px;
     display: flex;
     flex-direction: column;
@@ -21,14 +21,14 @@ input{
     border-radius: 10px;
 }
 
-#calcular{
+.botao{
     padding: 5px;
     border-radius: 10px;
     box-shadow: 4px 4px 3px #5d5d5d;
     cursor: pointer;
 }
 
-#calcular:active{
+.botao:active{
     box-shadow: none;
     transform: translate(4px, 4px);
 }
