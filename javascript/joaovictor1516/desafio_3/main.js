@@ -20,6 +20,10 @@ adicionar.addEventListener("click", () => {
 inverter.addEventListener("click", () => {
     resultado.innerHTML = "Lista: ";
 
+    if(lista.length === 0){
+        resultado.innerHTML = "Não há nada na lista";
+    }
+
     const listaInvertida = []
     for(let i = lista.length - 1; i >= 0; i--){
         listaInvertida.push(lista[i]);
