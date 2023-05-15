@@ -13,7 +13,7 @@ calcular.addEventListener("click", () => {
         pontos.innerHTML = "Valores inválidos.";
         return "Valores inválidos.";
     }else{
-        pontos.innerHTML += pontuacao;
+        pontos.innerHTML += `${pontuacao} pontos`;
         return pontuacao;
     }
 });
