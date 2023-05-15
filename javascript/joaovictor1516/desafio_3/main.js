@@ -1,34 +1,37 @@
 const numero = document.querySelector("#numero"),
 adicionar = document.querySelector("#adicionar"),
 inverter = document.querySelector("#inverter"),
-resultado = document.querySelector("#resultado");
+resultadoLista = document.querySelector("#resultado_lista"),
+resultadoListaInvertida = document.querySelector("#resultado_lista_invertida");
 
 const lista = [];
 
 adicionar.addEventListener("click", () => {
+    resultadoLista.innerHTML = "Lista: "
+
     if (numero.value === "" || isNaN(Number(numero.value))) {
-        resultado.innerHTML = "Digite um número válido";
+        window.alert("Digite um número válido");
         return "Digite um número válido";
     } else{
         lista.push(Number(numero.value));
         numero.value = "";
-        resultado.innerHTML = "Número adicionado na lista";
-        return "Número adicionado na lista";
+        resultadoLista.innerHTML = `Lista: [${lista}]`;
+        return lista;
     }
 });
 
 inverter.addEventListener("click", () => {
-    resultado.innerHTML = "Lista: ";
+    resultadoListaInvertida.innerHTML = "Lista invertida: ";
 
     if(lista.length === 0){
-        resultado.innerHTML = "Não há nada na lista";
+        window.alert("A lista esta vazia");
+        return "A lista está vázia";
     }
 
-    const listaInvertida = []
+    const listaInvertida = [];
     for(let i = lista.length - 1; i >= 0; i--){
         listaInvertida.push(lista[i]);
     }
-    resultado.innerHTML += listaInvertida;
-
+    resultadoListaInvertida.innerHTML = `Lista invertida: [${listaInvertida}]`;
     return listaInvertida
 })
