@@ -1,0 +1,1 @@
+# Para executar o codigo basta executar o arquivo html e então incerir os valores para então clicar no botão Adicionar, para adicionar o valor no array e então clicar em inverter para mostrar a lista invertida.
