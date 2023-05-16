@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+form{
+    background-color: #00C2D1;
+    border-radius: 10px;
+    margin: 20% 0 0 40%;
+    height: 200px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    box-shadow: 8px 8px #0F7173;
+}
+
+input{
+    text-align: center;
+    border-radius: 10px;
+}
+
+#calcular{
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 3px #5d5d5d;
+    cursor: pointer;
+}
+
+#calcular:active{
+    box-shadow: none;
+    transform: translate(4px, 4px);
+}
